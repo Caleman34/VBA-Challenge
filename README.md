@@ -40,7 +40,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 2. Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
-![2014screenshot](Images/2014screenshot.jpg)
+![2014screenshot](Images/2014screenshot.png)
 
 ![2015_screen_shot](Images/2015_screen_shot.png)
 
