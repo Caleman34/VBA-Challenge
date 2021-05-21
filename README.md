@@ -38,7 +38,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 1. Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
 
-![2014_screen_shot](Images/2014_screen_shot.png)
+![2014screenshot](Images/2014screenshot.png)
 
 ![2015_screen_shot](Images/2015_screen_shot.png)
 
