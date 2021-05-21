@@ -48,8 +48,3 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 
 ![2016](Images/screenshot2016.PNG)
-
-
-### Copyright
-
-Trilogy Education Services © 2020. All Rights Reserved.
