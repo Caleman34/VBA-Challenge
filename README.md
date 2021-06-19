@@ -6,7 +6,7 @@
 
 ## Instructions
 
-* Create a script that will loop through all the stocks for one year and output the following information.
+Create a script that will loop through all the stocks for one year and output the following information.
 
   * The ticker symbol.
 
@@ -18,7 +18,7 @@
 
   * Conditional formatting that will highlight positive change in green and negative change in red.
 
-## CHALLENGES
+## Challenges
 
   * Create a script to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
 
