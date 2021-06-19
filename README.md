@@ -4,7 +4,7 @@
 
 ![stock Market](Images/stockmarket.jpg)
 
-## My Data Results
+## Instructions
 
 * Create a script that will loop through all the stocks for one year and output the following information.
 
@@ -18,12 +18,14 @@
 
   * Conditional formatting that will highlight positive change in green and negative change in red.
 
-### CHALLENGES
+## CHALLENGES
 
-1. Create a script to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
+  * Create a script to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
 
-2. VBA script will run on every worksheet, i.e., every year.
+  * VBA script will run on every worksheet, i.e., every year.
 
+
+## My Data Results
 
 ### 2014 Ticker Analysis:
 
